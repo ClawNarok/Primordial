@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponents", "NavMeshComponents.csproj", "{f55f39cd-79a2-6d86-e4d5-557f26377bc9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{35734e31-a44b-fdbb-baf9-a7e7f93c10e0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{8f3d70f9-9601-4579-218e-e026ee9af073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponentsEditor", "NavMeshComponentsEditor.csproj", "{f530d591-051b-09de-3809-b9d3688f8cf9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{2fff40ce-9fa4-7589-206e-5bd75271bc33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f55f39cd-79a2-6d86-e4d5-557f26377bc9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f55f39cd-79a2-6d86-e4d5-557f26377bc9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35734e31-a44b-fdbb-baf9-a7e7f93c10e0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35734e31-a44b-fdbb-baf9-a7e7f93c10e0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8f3d70f9-9601-4579-218e-e026ee9af073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8f3d70f9-9601-4579-218e-e026ee9af073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f530d591-051b-09de-3809-b9d3688f8cf9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f530d591-051b-09de-3809-b9d3688f8cf9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2fff40ce-9fa4-7589-206e-5bd75271bc33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2fff40ce-9fa4-7589-206e-5bd75271bc33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
